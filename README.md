@@ -1,11 +1,11 @@
-# 🚀 Git & GitHub
+#  Git & GitHub
 ## Le guide pratique pour débuter, versionner et collaborer
 
 > **Du premier `git init` à la Pull Request :** apprenez à garder une trace claire de votre travail et à construire des projets à plusieurs, sans perdre vos modifications en chemin.
 
 **Niveau :** débutant · **Format :** cours + travaux pratiques · **Durée :** 3 h 45 · **Langue :** français
 
-> **🖼️ IMAGE DE COUVERTURE À AJOUTER ICI**  
+> ** IMAGE DE COUVERTURE À AJOUTER ICI**  
 > Choisissez une illustration panoramique et épurée montrant plusieurs développeurs qui collaborent autour d’un projet, avec un terminal, des branches reliées et un logo GitHub discret. Palette conseillée : violet, indigo et orange. Évitez une capture d’écran trop chargée.
 
 ---
